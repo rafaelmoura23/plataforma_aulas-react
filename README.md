@@ -137,6 +137,7 @@ classDiagram
     }
 
     class Post {
+        String titulo
         String conteudo
         String criador
         String comentarios
